@@ -12,7 +12,7 @@
 ![用法很简单](https://img.shields.io/badge/用法-很简单-red)，复制视频链接粘贴进nightab中，e.x.
 
 ```
-https://github.com/Simooooooooooooooon/nightab-profile/raw/main/video/cloud_sky.mp4                              
+https://github.com/Simooooooooooooooon/nightab-profile/raw/main/video/cloud_sky.mp4                                                                                     
 ```
 
 ---
